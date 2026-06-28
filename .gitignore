@@ -361,3 +361,12 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Intermediate/Build/
+/Intermediate/ProjectFiles/
+/Intermediate/TargetInfo.json
+/Saved/
+/DerivedDataCache/
+/Config/
+/Binaries/Win64/
+Content/Collections/
+Content/Developers/
