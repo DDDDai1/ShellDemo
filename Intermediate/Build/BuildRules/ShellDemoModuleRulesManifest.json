@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"E:\\UE_Project\\ShellDemo\\Source\\ShellDemo\\ShellDemo.Build.cs",
-		"E:\\UE_Project\\ShellDemo\\Source\\ShellDemo.Target.cs",
-		"E:\\UE_Project\\ShellDemo\\Source\\ShellDemoEditor.Target.cs"
-	],
-	"EngineVersion": "5.4.4"
-}
